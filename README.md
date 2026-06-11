@@ -12,12 +12,15 @@
 
 **郑重申明：此系统是可以免费使用的，如果您愿意捐赠，您将获取此系统的所有功能，并支持作者持续开发维护。捐赠金额将用于服务器购买及维护费用，并用于支付作者开发维护的费用。**
 
+![foamv2.png](imgs/foamv2.png)
+
 ## 📌 版本信息（Version）
 
 - 当前版本：**latest**
 - 更新日志详见：[`版本更新`](./CHANGELOG.md)
 - github地址：[`github`](https://github.com/ciweigg2/foam-introduction)
 - 官网：[`foam`](http://foam.cc.cd)
+- FoamV2官网：[`FoamV2`](https://foamhub.cc.cd)
 
 ---
 
