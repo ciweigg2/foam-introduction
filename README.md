@@ -12,6 +12,10 @@
 - FoamV2官网：[`FoamV2`](https://foamhub.cc.cd)
 - FoamV1请移步：[`FaomV1`](https://github.com/ciweigg2/foam-introduction-old)
 
+## 🧭 快速导航
+
+[📦 Docker 部署教程](docs/DEPLOYMENT.md) · [🖼️ 功能截图预览](docs/SCREENSHOTS.md) · [💬 Telegram 群组](https://t.me/FoamHub)
+
 ---
 
 # 🫧 FoamV2
@@ -153,5 +157,3 @@ Foam 是一套面向 Emby 的多服务器管理与用户服务平台，集成 We
 - Telegram 绑定审批和处理结果通知
 
 > 部分功能需要在后台开启对应配置，并根据普通用户、管理员、超管员或分销商权限显示。
-
-## [🚀 点击前往 Foam 群组聊天](https://t.me/FoamHub)
