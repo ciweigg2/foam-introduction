@@ -60,12 +60,34 @@
 
 入库、播放、求片通知
 
-[![FoamV2 Web 播放](../imgs/screenshots/13.png)](../imgs/screenshots/13.png)
-[![FoamV2 Web 求片](../imgs/screenshots/14.png)](../imgs/screenshots/14.png)
-[![FoamV2 Web 面板](../imgs/screenshots/15.png)](../imgs/screenshots/15.png)
-[![FoamV2 Web 追新](../imgs/screenshots/16.jpg)](../imgs/screenshots/16.jpg)
-[![FoamV2 Web 排行榜](../imgs/screenshots/17.jpg)](../imgs/screenshots/17.jpg)
-[![FoamV2 Web 入库](../imgs/screenshots/18.png)](../imgs/screenshots/18.png)
+<table>
+  <tr>
+    <td align="center" width="16.66%">
+      <a href="../imgs/screenshots/13.png"><img src="../imgs/screenshots/13.png" alt="播放通知" width="150"></a><br>
+      <sub>播放通知</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="../imgs/screenshots/14.png"><img src="../imgs/screenshots/14.png" alt="求片通知" width="150"></a><br>
+      <sub>求片通知</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="../imgs/screenshots/15.png"><img src="../imgs/screenshots/15.png" alt="管理面板" width="150"></a><br>
+      <sub>管理面板</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="../imgs/screenshots/16.jpg"><img src="../imgs/screenshots/16.jpg" alt="追新通知" width="150"></a><br>
+      <sub>追新通知</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="../imgs/screenshots/17.jpg"><img src="../imgs/screenshots/17.jpg" alt="排行榜通知" width="150"></a><br>
+      <sub>排行榜</sub>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="../imgs/screenshots/18.png"><img src="../imgs/screenshots/18.png" alt="入库通知" width="150"></a><br>
+      <sub>入库通知</sub>
+    </td>
+  </tr>
+</table>
 
 ## 📢 更多精彩
 
