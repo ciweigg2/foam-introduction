@@ -46,6 +46,10 @@ services:
       - /etc/hosts:/etc/hosts
     container_name: foam-api-v2
     restart: always
+    ulimits:
+      nofile:
+        soft: 32768
+        hard: 32768
     environment:
       #db:3306 使用的是容器内部的端口 不是映射完的端口
       - SPRING_DATASOURCE_URL=jdbc:mysql://db:3306/foam-api-v2?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8&allowPublicKeyRetrieval=true
@@ -103,6 +107,10 @@ services:
     image: ciwei123321/foam-web:latest
     container_name: foam-web
     restart: always
+    ulimits:
+      nofile:
+        soft: 32768
+        hard: 32768
     ports:
       - "8081:80"
     environment:
