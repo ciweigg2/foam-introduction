@@ -1,8 +1,8 @@
-# 📦 FoamV2（Foam Forever） Docker 部署教程
+# 📦 Foam Forever（FoamV2） Docker 部署教程
 
 [← 返回项目介绍](../README.md) · [🖼️ 查看功能截图](SCREENSHOTS.md) · [💬 Telegram 群组](https://t.me/FoamHub)
 
-FoamV2 推荐使用 Docker Compose 部署。下面的配置会启动 Foam Web、Foam API、MySQL 和 Redis，适合在一台 Linux 服务器上快速搭建。
+Foam Forever（FoamV2） 推荐使用 Docker Compose 部署。下面的配置会启动 Foam Web、Foam API、MySQL 和 Redis，适合在一台 Linux 服务器上快速搭建。
 
 > FoamV2 为授权软件。部署完成后仍需获取有效授权，具体方式请查看官网或加入 Telegram 群组咨询。
 
