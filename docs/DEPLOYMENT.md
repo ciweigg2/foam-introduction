@@ -1,4 +1,4 @@
-# 📦 FoamV2 Docker 部署教程
+# 📦 FoamV2（Foam Forever） Docker 部署教程
 
 [← 返回项目介绍](../README.md) · [🖼️ 查看功能截图](SCREENSHOTS.md) · [💬 Telegram 群组](https://t.me/FoamHub)
 
